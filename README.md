@@ -1,2 +1,5 @@
 # unity-vr-gaze-teleportation
-Unity Gaze Input for Teleportation: VR Cardboard Box Setup
+
+![VR Gaze Teleportation](images/vr-gaze-teleportation.jpg)
+
+Unity Gaze Input for Teleportation: Cardboard Box Setup
